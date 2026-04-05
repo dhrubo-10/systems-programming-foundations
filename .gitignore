@@ -2,4 +2,4 @@
 *.bin
 *.img
 *.md
-./obsidian
+.obsidian/
