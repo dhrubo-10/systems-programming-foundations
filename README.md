@@ -1,2 +1,3 @@
 # systems-programming-foundations
-For my students.
+Topics Covered:
+Bitwise operations and bit manipulation techniques
